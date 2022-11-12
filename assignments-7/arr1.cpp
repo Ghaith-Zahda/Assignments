@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//ÊÕÇÚÏí
+//ØªØµØ§Ø¹Ø¯ÙŠ
 void arr1(int arr[], int mysize) {
 	int temp;
 	for (int i = 0; i < mysize - 1; i++) {
@@ -16,7 +16,7 @@ void arr1(int arr[], int mysize) {
 		cout << arr[i] << "\t";
 	}
 }
-//ÊäÇÒáí
+//ØªÙ†Ø§Ø²Ù„ÙŠ
 void arr2(int arr[], int mysize) {
 	int temp;
 	for (int i = 0; i < mysize - 1; i++) {
